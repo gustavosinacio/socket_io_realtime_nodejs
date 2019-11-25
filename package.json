@@ -1,0 +1,7 @@
+{
+  "name": "socket_io_realtime_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<gsinacio94@gmail.com>",
+  "license": "MIT"
+}
